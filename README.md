@@ -27,7 +27,6 @@
 </div>
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  <br/><br/>
 </div>
 <hr/>
 <h3 align="center">🔥 GitHub Stats 🔥</h2>
