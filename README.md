@@ -7,7 +7,7 @@
 <h3 align="center">I'm a Software Engineer (Java)</h3>
 
 <div align="center">
- 🌍 I'm based in Vietnamese 
+ 🌍 I'm based in Vietnamese (HCM)
  </div>
  <br/>
 <div align="center"> 
