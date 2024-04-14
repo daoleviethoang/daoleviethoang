@@ -1,7 +1,7 @@
 <div align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjBma2FmN3R0M3g5amFoNGVlYWk4YzNtdm53N3Jmdjd0dGhkNnpmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="giphy"> </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hoang+DLV!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&pause=1000&color=000000&lines=Hello+World+!!!+👋;+I'm+Hoang+DLV+🖤;" />
 </h1>
 
 <h3 align="center">I'm a Software Engineer (Java)</h3>
