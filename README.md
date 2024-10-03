@@ -7,14 +7,14 @@
 <h3 align="center">I'm a Software Engineer (Java)</h3>
 
 <div align="center">
- 🌍 I'm based in HoChiMinh (VN)
+ 🌍 I'm based in Ho Chi Minh (VN)
  </div>
  <br/>
 <div align="center"> 
   <a href="mailto:daoleviethoang@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/viet-hoang-a061411a4/">
+  <a href="https://www.linkedin.com/in/daoleviethoang/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
